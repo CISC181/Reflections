@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: pkgShape.RectangleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.021 s <<< FAILURE! - in pkgShape.RectangleTest
+pkgShape.RectangleTest.RectangleTest  Time elapsed: 0.012 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: NoSuchMethodException
+	at pkgShape.RectangleTest.RectangleTest(RectangleTest.java:39)
+
